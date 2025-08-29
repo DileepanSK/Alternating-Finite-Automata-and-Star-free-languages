@@ -1,0 +1,10 @@
+The first line contains 2 integers n,t : the no. of states and the no. of transitions respectively
+
+The second line contains a single integer : The start states
+
+The third line contains all the final states
+
+The next t lines contain the transitions:
+Format : x,y,c where x is the current state and y is a boolean expression showing the next states to be visited and c is the input character.
+
+The last line contains the input word that will be run on the machine.
